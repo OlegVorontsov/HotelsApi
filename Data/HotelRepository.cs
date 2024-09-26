@@ -7,6 +7,8 @@ public class HotelRepository : IHotelRepository
   private readonly HotelsDbContext _db;
   public HotelRepository(HotelsDbContext db) => _db = db;
   public async Task<List<Hotel>> GetHotelListAsync() => await _db.Hotels.ToListAsync();
+  public async Task<List<Hotel>> GetHotelsByNameAsync(string hotelName) =>
+                await _db.Hotels.Where(h => h.Name.Contains(hotelName)).ToListAsync();
   public async Task<Hotel> GetHotelByIdAsync(int id) => await _db.Hotels.FindAsync(new object[] { id });
   public async Task InsertHotelAsync(Hotel hotel) => await _db.Hotels.AddAsync(hotel);
   public async Task UpdateHotelAsync(Hotel hotel)
