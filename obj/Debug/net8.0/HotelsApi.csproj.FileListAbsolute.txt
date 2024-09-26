@@ -24,3 +24,10 @@ C:\Users\admin\source\repos\hotelsapi\obj\Debug\net8.0\refint\HotelsApi.dll
 C:\Users\admin\source\repos\hotelsapi\obj\Debug\net8.0\HotelsApi.pdb
 C:\Users\admin\source\repos\hotelsapi\obj\Debug\net8.0\HotelsApi.genruntimeconfig.cache
 C:\Users\admin\source\repos\hotelsapi\obj\Debug\net8.0\ref\HotelsApi.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\admin\source\repos\HotelsApi\obj\Debug\net8.0\HotelsApi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\HotelsApi\obj\Debug\net8.0\HotelsApi.csproj.Up2Date
