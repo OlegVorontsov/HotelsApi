@@ -36,3 +36,12 @@ C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Sw
 C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\admin\source\repos\HotelsApi\obj\Debug\net8.0\HotelsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\source\repos\HotelsApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
